@@ -7,3 +7,5 @@ created: 1613342636996
 ---
 
 # Boolean
+
+T/F
